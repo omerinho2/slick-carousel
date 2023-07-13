@@ -1,0 +1,2 @@
+# slick-carousel
+ kaydırma uygulaması
